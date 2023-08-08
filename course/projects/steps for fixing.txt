@@ -1,0 +1,20 @@
+plair plot
+kutosis
+
+--------------
+preprocessing 
+
+1. check missing value and outlier
+2. outlier fix
+3. fill in missing values
+4. analysis of featuring - imbalance, count, distribution, correlation
+
+category features
+1. missing values
+2. one hot encoding
+3. apply above steps
+
+feature scaling - same range
+segregation / separation - training and testing
+
+if we have more than 50 or 60% data is missin, better to close this column
